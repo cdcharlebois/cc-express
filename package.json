@@ -1,0 +1,22 @@
+{
+  "name": "cc-express",
+  "version": "0.0.0",
+  "description": "a sandbox for expressjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/cdcharlebois/cc-express.git"
+  },
+  "author": "Conner Charlebois",
+  "license": "BSD-2-Clause",
+  "bugs": {
+    "url": "https://github.com/cdcharlebois/cc-express/issues"
+  },
+  "homepage": "https://github.com/cdcharlebois/cc-express",
+  "dependencies": {
+    "express": "~4.12.3"
+  }
+}
